@@ -1,3 +1,6 @@
+如果你发现上面的工作是有用的，请如下引用：
+
+If you find this work useful for you, please consider cite:
 ## 引用格式：
 ### 中文版
 PPT 源于史明磊, 清华大学 
